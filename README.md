@@ -1,5 +1,5 @@
 # DZZStatusBarHUD
-这款简单的HUD
+简约的HUD
 
 ##显示成功信息
 ```objc
